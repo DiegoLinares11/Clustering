@@ -30,5 +30,5 @@ sns.scatterplot(
 plt.title("Clusters (k=2) con datos estandarizados")
 plt.xlabel("Longitud del sépalo (cm)")
 plt.ylabel("Ancho del sépalo (cm)")
-plt.savefig("../images/Estandarizacion.png")  
+plt.savefig("../graphics/Estandarizacion.png")  
 plt.show()

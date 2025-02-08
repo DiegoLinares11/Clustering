@@ -29,5 +29,5 @@ sns.scatterplot(
 plt.title("Clusters (k=2) basados en el sépalo")
 plt.xlabel("Longitud del sépalo (cm)")
 plt.ylabel("Ancho del sépalo (cm)")
-plt.savefig("../images/Clusters.png")  
+plt.savefig("../graphics/Clusters.png")  
 plt.show()
